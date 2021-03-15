@@ -1,0 +1,51 @@
+body{
+    background-color: #212121;
+}
+.head{
+    color: #e8e8e8;
+    text-align: center;
+    font-size: 3rem;
+}
+.btn{
+    height: 8rem;
+    width: 8rem;
+    /* border-radius: 2em; */
+    border-color: black;
+    border-width: 1rem;
+   
+   
+}
+.btn1{
+    position: relative;
+    left:600px;
+    top:80px;
+    margin-right: 80px;
+    
+   
+}
+.btn2{
+    position: relative;
+    left:175px;
+    top:290px;
+    margin-right: 80px;
+   
+}
+#blue{
+    background-color: blue;
+}
+#red{
+    background-color:red;
+}
+#green{
+    background-color:green;
+}
+#yellow{
+    background-color: yellow;
+}
+.clicked{
+    box-shadow: 7px 9px 9px 0 whitesmoke;
+    opacity:1.8;
+}
+.wrong{
+    background-color: red;
+}
